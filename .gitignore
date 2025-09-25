@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+.git/
+*.lock
+.replit
+replit.nix
+.config/
+.upm/
+vite.config.ts.timestamp-*
